@@ -1,3 +1,4 @@
+// One employee has one employee ID
 class Employee{
 
     String emp_id;
