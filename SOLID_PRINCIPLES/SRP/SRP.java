@@ -1,4 +1,4 @@
-package SOLID_PRINCIPLES;
+package SOLID_PRINCIPLES.SRP;
 
 /*  Single Responsibility Principle ---> One class, one responsiblity
 */
